@@ -12,6 +12,12 @@ Install:
 pip install git+git://github.com/RJMetrics/RJMetrics-py.git
 ```
 
+or
+
+```
+pip install rjmetrics
+```
+
 ### License
 
    Copyright 2014 RJMetrics Inc.
