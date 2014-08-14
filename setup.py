@@ -34,7 +34,7 @@ setup(
     description='Python client for RJMetrics APIs',
     author='RJMetrics',
     author_email='support@rjmetrics.com',
-    url='https://rjmetrics.com/',
+    url='http://developers.rjmetrics.com/',
     packages=['rjmetrics', 'rjmetrics.test'],
     package_data={'rjmetrics': ['../VERSION']},
     install_requires=install_requires,
@@ -43,7 +43,7 @@ setup(
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
-        "License :: OSI Approved :: Apache License",
+        "License :: OSI Approved :: Apache Software License",
         "Operating System :: OS Independent",
         "Programming Language :: Python",
         "Programming Language :: Python :: 2",
